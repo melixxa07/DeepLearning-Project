@@ -1,6 +1,6 @@
 # Deep Learning Project: FER-2013
 
-## By
+## Member
 - Melissa Galeano Ruiz, CC: 1000.416.463  -  Mechanical Engineering 
 
 ## Data
